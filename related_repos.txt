@@ -1,0 +1,15 @@
+
+Mijia 360: https://github.com/niclet/xiaomi_hack
+Yi: https://github.com/shadow-1/yi-hack-v3
+Openipcamera: https://github.com/openipcamera/openipc-firmware
+Fang Hacks: https://github.com/samtap/fang-hacks
+Xiaomi Dafang Hacks: https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
+
+Mijia 1080p: https://github.com/Filipowicz251/mijia-1080P-hacks
+mijia 720p 360 supported?
+
+Hacking a $30 IoT camera to do more than it’s worth.
+https://hackernoon.com/hacking-a-25-iot-camera-to-do-more-than-its-worth-41a8d4dc805c
+
+
+
